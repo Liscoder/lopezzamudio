@@ -1,0 +1,92 @@
+header{
+	background:#322E39;
+	height: 4.5em;
+}
+.content{
+	padding:2%;
+}
+header nav{
+margin-left:40% ;
+}
+.cont a{
+	text-decoration: none;
+	float:left;
+	color:white;
+	font-family:Latolight;
+	font-size:18px;
+	padding:2% 1%;
+}
+/*section images*/
+.images{
+	background-color:#dedee8;
+}
+.images img{
+	padding-top:3%;
+}
+.images h1{
+	padding-top:3%;
+}
+.read{
+	padding:1%;
+	margin:3% 3%;
+	border-radius:14px;
+	background-color:#boad37;
+	color:white;
+}
+.tema{
+	border-bottom:1px dashed;
+	border-color:black;
+}
+/*portafolio*/
+.portafolio{
+	background-color:#dedee8;
+}
+.latest{
+	padding: 5% 0 2%;
+	color:#6c6577;
+}
+.portafolio a{
+	text-decoration: none;
+	color:#b6b3cc;
+}
+.recent{
+	color:black;
+}
+.portafolio nav{
+	padding-bottom:3%;
+}
+.portafolio p{
+	width:98%;
+	font-size:14px;
+	
+	color:#A4A4A4;
+}
+.portafolio h3{
+	color:#585858;
+}
+.parrafo{
+	width:97%;
+}
+.separar{
+	padding-top: 2%;
+}
+.more{
+	background-color:gray;
+	color:white;
+	padding:1%;
+	border-radius: 10px;
+}
+.ave{
+	color:#aeacb6;
+	font-size:50px;
+}
+.follow{
+		background-color:#dedee8;
+}
+/*footer*/
+footer{
+	background:#322E39;
+}
+.mas{
+	padding-top: 3%;
+}
